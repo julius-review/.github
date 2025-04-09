@@ -52,8 +52,6 @@
 <h3>How to Set Up Your First Campaign</h3>
 <p>Launching your first influencer campaign with Julius is intuitive, even for beginners. After logging into your account, you'll find a clear "Create Campaign" button guiding you through campaign creation step-by-step. Julius allows precise customization of key campaign metrics, such as budget, KPIs, and audience targeting. You can easily:</p>
 
-<a target="_blank" href="https://julius.ai?via=new">Click here to have free access !</a>
-
 <ul>
     <li>Select campaign objectives from awareness to conversion.</li>
     <li>Define budgets and payment terms clearly and transparently.</li>
