@@ -1,5 +1,5 @@
 <h1>Julius Review (2025 Update): Is Julius Worth the Hype?</h1>
-<p><strong>Contributor</strong> | <time datetime="2025-04-09">April 9, 2025</time></p>
+<p><strong>julius ai</strong> | <time datetime="2025-04-09">April 9, 2025</time></p>
 <img src="https://i.ytimg.com/vi/STc2SrLsIEo/maxresdefault.jpg"
   alt="bypass AI detectors with julius"
   width="750"
