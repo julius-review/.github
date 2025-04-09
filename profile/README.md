@@ -93,8 +93,6 @@
 <h3>Powerful Influencer Search Tools</h3>
 <p>Julius separates itself from other influencer marketing platforms with its advanced search functionality, helping marketers find precise influencer matches faster. By leveraging machine learning algorithms and natural language processing, Julius enables filtering by audience demographics, engagement rates, content themes, and even sentiments expressed in influencer postings.</p>
 
-<a target="_blank" href="https://julius.ai?via=new">Click here to have free access !</a>
-
 <ul>
     <li>More than 130,000 verified influencers across 60 diverse industries.</li>
     <li>AI-powered topic and sentiment analysis to identify best-fitting influencers.</li>
